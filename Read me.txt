@@ -1,0 +1,52 @@
+    
+
+  An Integrated Bulk Products Enabled On-Demand Grocery Shopping and Delivery Cloud System in the Innovative Approach  
+
+In this project has three modules:
+    Admin
+    Employee or Delivery Boy
+    Customer
+Admin:
+  * Login the account with correct user name and the password
+  * Add the employee with the basic information
+  * View all the employee 
+  -->If we dont't want this employee means delete , If we need made some changes means edit, and make enable means view.
+  * Add employee salary 
+  -->view all the employee and update the salary amount for the particular employee
+  * Add the product
+  --> Add the product with the full details
+  * View all the grocery items (Like stock )
+  -->If we dont't want this product means delete , If we need made some changes means edit, and make enable means view. 
+  * New orders by the customer
+  --> View all the new orders and assign the works to delivery boy
+  * View all the assign work status
+  * Logout.
+Delivery boy or Employee:
+ * Login the account with correct username and the password
+ * View their Own Profile
+ * Put the attendance details
+ * View all the salary details.
+ * View all assigned works  and uploaded status by the admin
+ * Logout
+
+Customer:
+ * Register the account with basic information
+ * Login the account with the correct user name and password
+ * View their own profile
+ * View  the menu of  products available in the grocery store ,add to cart and 
+   -->if you want choose online payment  means ,enter your bank details and the Cash on Delivery
+ * View all the order status
+ * View all your transaction detail.once you get that products means it is visible..
+ * Logout
+
+
+
+The main goal of this product is we provide the all types of products in one shop with the stored products.It is useful to all the customer to get a products in one store......
+
+
+
+
+
+
+
+
